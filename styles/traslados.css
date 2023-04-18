@@ -1,0 +1,52 @@
+.promociones {
+    margin-top: 150px;
+}
+.traslados {
+    margin: auto;
+}
+
+.imagen-tarjeta {
+    height: 200px;
+}
+
+.tarjeta {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.titulo {
+    color: #0D5E8B;
+}
+
+.parrafo {
+    text-align: right;
+}
+
+.boton {
+    background-image: url(../imgs/flecha.svg);
+    background-repeat: no-repeat;
+    background-position: center left;
+    border: none;
+    background-color: white;
+    font-weight: bold;
+}
+
+.contenedor-tarjeta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contenedor-consultar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.boton-consultar {
+    margin: 20px;
+    background-color: #2570fa;
+    color: white;
+    border-radius: 20px;
+}

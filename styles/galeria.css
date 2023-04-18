@@ -1,0 +1,33 @@
+.contenedor-galeria {
+    margin: 150px auto;
+}
+
+.imagen-galeria {
+    width: 100%;
+    margin: 25px auto;
+    border-radius: 20px;
+}
+
+.imagen-galeria:hover {
+    cursor: pointer;
+}
+
+.modelo {
+    background: rgba(0, 0, 0 ,0.5);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 100000000000000;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+}
+
+.imagen-modelo {
+    width: 450px;
+    max-width: 100%;
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+}

@@ -1,0 +1,24 @@
+.contenedor-paracas {
+    margin: 150px auto;
+}
+
+.titulo {
+    color: red;
+    text-align: center;
+}
+
+.subtitulo {
+    color: green;
+    text-align: right;
+}
+
+.imagen-paracas {
+    width: 100%;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
+.parrafo {
+    font-size: 20px;
+    text-align: justify;
+}

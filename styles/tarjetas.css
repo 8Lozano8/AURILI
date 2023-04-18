@@ -1,0 +1,54 @@
+.texto-imagen {
+    background-color: rgba(0, 0 , 0, 0.5);
+    color: white;
+}
+
+.card-body {
+    margin: 0;
+    padding: 0;
+}
+
+.imagen-tarjeta {
+    width: 100%;
+}
+
+.imagen-uno {
+    background-image: url(../imgs/miraflores.jpg);
+    height: 400px;
+    margin: 50px auto;
+}
+
+.imagen-dos {
+    background-image: url(../imgs/jiron.jpg);
+    height: 400px;
+    margin: 50px auto;
+}
+
+.imagen-tres {
+    background-image: url(../imgs/costa_verde.jpg);
+    background-position: center;
+    height: 400px;
+    margin: 50px auto;
+}
+
+.imagen-cuatro {
+    background-image: url(../imgs/ica_sur.jpg);
+    background-position: center;
+    height: 400px;
+    margin: 50px auto;
+}
+
+.imagen:hover {
+    transform: scale(1,1);
+    transition: transform 0.3s ease;
+}
+
+.contenedor-reserve a button {
+    border: none;
+    background-color: white;
+    background-image: url(../imgs/flecha.svg);
+    background-repeat: no-repeat;
+    background-position: center left;
+    font-weight: bold;
+    font-size: 20px;
+}

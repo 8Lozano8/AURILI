@@ -1,0 +1,11 @@
+.vienta {
+    margin-left: 10px;
+	font-size:18px;
+	line-height:32px;
+	color: #413F3F;
+}
+
+.buen {
+    list-style-image: url(../imgs/vineta.png);
+    margin-bottom: 10px;
+}

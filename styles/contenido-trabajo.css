@@ -1,0 +1,11 @@
+.contenedor-trabajo {
+    margin: 150px auto;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.contenedor-trabajo ul li {
+    list-style-image: url(../imgs/vineta.png);
+    text-align: justify;
+}
+

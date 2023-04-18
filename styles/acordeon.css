@@ -1,0 +1,15 @@
+.contenedor-acordeon {
+    margin: 150px auto;
+}
+
+.accordion-header button{
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.accordion-body {
+    font-size: 25px;
+}
